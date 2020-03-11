@@ -1,0 +1,275 @@
+html, body {
+    overflow-x: hidden;
+}
+
+/* NAVBAR STYLING */
+
+.uk-navbar {
+    height: 50px;
+}
+
+.gg-menu {
+    margin-bottom: 26px;
+}
+
+.gg-search, .gg-close {
+    margin-bottom: 26px;
+}
+
+.search-bar-button {
+    border: none;
+    padding: 0%;
+}
+
+.uk-form-icon:not(.uk-form-icon-flip)~.uk-input {
+    padding-left: 35px!important;
+}
+
+.nav-margin {
+    margin-bottom: 0px;
+}
+
+.other-nav-logo {
+    padding-bottom: 30px;
+}
+
+.other-nav {
+    margin-bottom: 0px;
+}
+
+.nav-background {
+    background-color: white !important;
+}
+
+.uk-form-width-medium {
+    display: none;
+    height: 30px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.uk-form-icon, #close {
+    display: none;
+}
+
+.uk-form-width-medium {
+    width: 250px;
+    margin-right: 20px;
+    margin-bottom: 26px;
+}
+
+.uk-form-icon {
+    margin-top: 6.5px;
+    margin-left: 6px;
+    margin-right: 0px;
+}
+
+#inputSearch {
+    height: 17px;
+    width: 17px;
+}
+
+/* SIDENAV STYLING */
+
+.uk-open, .uk-offcanvas-bar {
+    padding-left: 0%;
+    padding-right: 0%;
+    width: 100%;
+}
+
+.sidebar-title {
+    margin-left: 15px;
+    margin-top: 25px;
+}
+
+.uk-position-top-center {
+    margin-top: 20px;
+}
+
+.sidebar-text {
+    color: black !important;
+}
+
+.sidebar-text-list {
+    color: #666 !important;
+}
+
+.uk-tile-muted {
+    width: 100%;
+}
+
+#user-img {
+    width: 50px;
+    height: 50px;
+    margin-left: 13px;
+    margin-bottom: 7px;
+    border-radius: 20%;
+    -webkit-border-radius: 20%;
+    -moz-border-radius: 20%;
+    -ms-border-radius: 20%;
+    -o-border-radius: 20%;
+}
+
+.sidebar-header {
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+
+#side-username {
+    margin-left: 10px;
+}
+
+#logout {
+    background-color: rgb(99, 99, 99);
+    color: white;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+/* Button styling */
+
+.uk-button {
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+/* Product Page Styles */
+.ef-card-related{
+    height: 240px !important;
+}
+
+.share-btn {
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+.product-page-price {
+    font-size: 38px;
+}
+
+.product-price-secondary {
+    font-size: 18px;
+}
+
+.bid-btn {
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    background-color: rgb(80, 151, 80);
+}
+
+.slider-img {
+    margin-top: 1em;
+    width: 150px !important;
+    height: 150px !important;
+}
+
+.slider-price {
+    font-size: 18px;
+}
+
+.slider-margin-remove {
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.slider-margin-bottom-remove {
+    margin-bottom: 0px;
+}
+
+.slider-product-title {
+    font-size: 18px;
+}
+
+/* COLLECTION STYLING */
+
+.collection-tile {
+    margin-bottom: 25px;
+}
+
+.uk-card-small {
+    margin-left: 8px;
+    margin-bottom: 10px;
+}
+
+.pagination {
+    margin-left: 70px;
+    margin-top: 10px;
+}
+
+.uk-card-collection {
+    width: 170px !important;
+    height: 260px !important;
+}
+
+.ef-bc-margin {
+    margin-top: 10px;
+}
+
+/* Footer*/
+
+.footer-container {
+    height: 10%;
+    width: 100%;
+    background-color: rgb(56, 56, 56);
+    position: static;
+    right: 0%;
+}
+
+/* Profile Page */
+
+.profile-online {
+    color: rgb(0, 212, 0);
+    font-size: 12px;
+}
+
+/* Home Page */
+
+.spacer {
+    height: 50px;
+}
+
+.home-sliders {
+    padding-left: 10px;
+}
+
+.cat-width {
+    margin-top: 10px;
+    margin-left: 0px;
+    width: 100px;
+}
+
+.cat-width-apparel {
+    margin-top: 10px;
+    margin-left: 30px;
+    width: 100px;
+}
+
+.ef-card-home {
+    width: 160px !important;
+    height: 230px !important;
+}
+
+.ef-home-img {
+    height: 140px;
+    width: 140px;
+}
+
+.ef-card-body {
+    background-color: rgb(241, 241, 241);
+    padding-bottom: 40px !important;
+}
